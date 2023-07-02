@@ -5,7 +5,7 @@
 #include <MQUnifiedsensor.h> //Library MQ
 #include <Servo.h> //Library Servo 
 
-char auth[] = "7DNxAQ7e1Ca1x6yZbSToi-sH2N0w7uMT"; //Token Blynk
+char auth[] = "token_blynk"; //Token Blynk
 char ssid[] = "nama_wifi"; //SSID Wi-Fi
 char pass[] = "password_wifi"; //Password Wi-Fi
 
